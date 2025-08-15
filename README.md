@@ -1,4 +1,4 @@
-
+![logo](https://github.com/gayu600/gayu600/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gayatri Chavhan</h1>
 <h3 align="center">A passionate Software developer as well as a Data analytics from india from India</h3>
 
