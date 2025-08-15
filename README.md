@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayu600&label=Profile%20views&color=0e75b6&style=flat" alt="gayu600" /> </p>
 
-- 🌱 I’m currently learning **React,ReactNative,Express,Wordpress,FLutter**
+- 🌱 I’m currently learning **React,ReactNative,Express,Wordpress**
 
 - 📫 How to reach me **gchavhan600@gmail.com**
 
