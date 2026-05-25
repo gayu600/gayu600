@@ -46,7 +46,7 @@
 
 ## 💻 Backend Developer Intern  
 ### VM3 Tech Solutions LLP | India  
-📅 Mar 2025 – Sep 2025  
+📅 Mar 2025 – Mar 2026
 
 - Developed backend APIs using Node.js and Express.js for live company projects.
 - Designed and optimized SQL queries in MySQL and PostgreSQL.
