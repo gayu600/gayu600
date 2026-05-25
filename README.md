@@ -36,12 +36,10 @@
 <p align="center">
 <i>
 
-"Consistency beats talent when talent doesn't work hard.  
-Keep learning, keep building, and success will follow."
+"Consistency beats talent when talent doesn't work hard. Keep learning, keep building, and success will follow."
 
 </i>
 </p>
-
 ---
 
 # 💼 Experience
@@ -113,12 +111,7 @@ Keep learning, keep building, and success will follow."
 
 </p>
 
-- Power BI  
-- Excel  
-- Pandas  
-- NumPy  
-- KPI Dashboard Development  
-- Data Visualization  
+- Power BI  - Excel  - Pandas  - NumPy  - KPI Dashboard Development  - Data Visualization  
 - Data Cleaning  
 
 ---
