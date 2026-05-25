@@ -161,11 +161,11 @@ Keep learning, keep building, and success will follow."
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 GitHub Contribution Snake
 
 <p align="center">
 
-[![Gayatri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayu600&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/gayu600/gayu600/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -270,6 +270,10 @@ Next.js • Node.js • MySQL • AI Integration
 </p>
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer"/>
+</p>
 
 <p align="center">
 
