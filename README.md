@@ -267,6 +267,10 @@ Next.js • Node.js • MySQL • AI Integration
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://www.github.com">
+<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
