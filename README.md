@@ -196,16 +196,17 @@ Node.js • Express.js • MySQL • JWT • REST APIs
 
 ---
 
-## 📊 Employee Analytics Dashboard
+## ⛽ Bharat Petrol Pump Sales Dashboard
 
 ### 🔹 Tech Stack:
-Power BI • SQL • Python • Excel
+Power BI • SQL • Excel • DAX
 
-✔ KPI Dashboards  
-✔ Data Visualization  
-✔ SQL + Python Analysis  
-✔ Interactive Reporting  
-✔ Data Cleaning & Insights  
+✔ Fuel Sales Analytics  
+✔ Profit & Revenue KPIs  
+✔ Customer Insights Dashboard  
+✔ Interactive Slicers & Reports  
+✔ DAX Measures & Calculations  
+✔ Business Performance Analysis  
 
 ---
 
