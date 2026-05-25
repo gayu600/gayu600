@@ -281,7 +281,7 @@ Next.js • Node.js • MySQL • AI Integration
 
 <p align="center">
 
-⭐ Learning Never Stops • Building Never Ends ⭐
+                       ⭐ Learning Never Stops • Building Never Ends ⭐
 
 </p>
 
