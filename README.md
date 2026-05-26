@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="left">
-💻 Backend Developer • 📊 Data Analyst • 🗄 SQL Developer • 🤖 Data Science Enthusiast
+💻 Backend Developer • 📊 Data Analyst • 🗄 SQL Developer • 🤖 Data Science Enthusiast the
 </h3>
 
 <p align="center">
