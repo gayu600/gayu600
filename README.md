@@ -170,16 +170,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayu600&theme=onedark&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🏢 VM3 CMS Employee Management System
