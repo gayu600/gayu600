@@ -171,14 +171,11 @@
 ---
 
 # 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gayu600&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
+  <img src="https://github-profile-trophy.vercel.app/?username=gayu600&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
+</p>---
 
 # 🚀 Featured Projects
 
