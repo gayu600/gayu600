@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋 Hi, I'm Gayatri Chavhan
+  👋 Hi, I'm Gayatri Chavhan 
   <img src="https://komarev.com/ghpvc/?username=gayu600&label=Profile+Views&color=blueviolet&style=for-the-badge" align="right"/>
 </h1>
 
